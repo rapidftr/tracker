@@ -1,4 +1,1 @@
-tracker
-=======
-
-The Issue Tracker for RapidFTR
+The Issue Tracker for RapidFTR.
