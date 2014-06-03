@@ -1,5 +1,7 @@
 # The Issue Tracker for RapidFTR
 
+We're using this single repository's Issues page to track all work items for RapidFTR. This process itself is new to us, so any feedback (like organizing labels, using assignees, etc) is welcome.
+
 * Check the [Waffle](https://waffle.io/rapidftr/tracker) board
 * Pick up an issue
   * For people new to the codebase, we recommend starting issues labelled **Small** or **Tech Tasks**
