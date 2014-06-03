@@ -1,6 +1,6 @@
 # The Issue Tracker for RapidFTR
 
-# Contributing
+## Contributing
 
 * Check the [Waffle](https://waffle.io/rapidftr/tracker) board
 * Pick up an issue
