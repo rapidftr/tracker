@@ -1,7 +1,5 @@
 # The Issue Tracker for RapidFTR
 
-## Contributing
-
 * Check the [Waffle](https://waffle.io/rapidftr/tracker) board
 * Pick up an issue
   * For people new to the codebase, we recommend starting issues labelled **Small** or **Tech Tasks**
