@@ -1,5 +1,6 @@
 # Contributor Quick Start
 
+* Stories for all RapidFTR projects (web, android, infrastructure, guides) are tracked as GitHub Issues in this repository.
 * **Choose a Story:**
   * Best stories for developers start with: [Small, Free to Play stories](https://github.com/rapidftr/tracker/issues?labels=Estimate%3A+Small%2CStatus%3A+2.+Ready&milestone=6&page=1&state=open)
   * Best stories for QAs start with: [Small Dev Complete Tasks](https://github.com/rapidftr/tracker/issues?labels=Estimate%3A+Small%2CStatus%3A+4.+Dev+Complete&milestone=&page=1&state=open)
