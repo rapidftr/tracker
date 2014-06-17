@@ -1,6 +1,13 @@
 # Contributor Quick Start
 
-* Stories for all RapidFTR projects (web, android, infrastructure, guides) are tracked as GitHub Issues in this repository.
+Stories for all RapidFTR projects (web, android, infrastructure, guides) are tracked as GitHub Issues in this repository. You can contribute to RapidFTR in a variety of ways, including:
+
+* Rails/Android Development
+* DevOps Automation
+* Automated BDD Testing
+* UI/UX Enhancements
+* Documentation
+
 * **Choose a Story:**
   * Pick stories that are in  [Milestone: Free to Play and Status: Ready](https://github.com/rapidftr/tracker/issues?labels=Status%3A+2.+Ready&milestone=6&page=1&state=open). From this page, you can additionally filter by story estimate, or the platform (ruby/android/chef) using the labels.
   * Only pick other stories in other milestones if you know what you're doing. Double check this when you start picking a story
