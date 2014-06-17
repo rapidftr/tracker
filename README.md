@@ -2,8 +2,8 @@
 
 * Stories for all RapidFTR projects (web, android, infrastructure, guides) are tracked as GitHub Issues in this repository.
 * **Choose a Story:**
-  * Start from stories that are [`Milestone: Free to Play` and `Status: Ready`](https://github.com/rapidftr/tracker/issues?labels=Status%3A+2.+Ready&milestone=6&page=1&state=open). From this page, you can additionally filter by story estimate, or the platform (ruby/android/chef) using the labels.
-  * **Always Filter by `Free to Play` milestone and `Status: Ready` label**. Only pick other stories if you know what you're doing. Double check this when you start picking a story
+  * Pick stories that are in  [Milestone: Free to Play and Status: Ready](https://github.com/rapidftr/tracker/issues?labels=Status%3A+2.+Ready&milestone=6&page=1&state=open). From this page, you can additionally filter by story estimate, or the platform (ruby/android/chef) using the labels.
+  * Only pick other stories in other milestones if you know what you're doing. Double check this when you start picking a story
   * Read the comments and linked issues
   * Alternatively, check the [Waffle](https://waffle.io/rapidftr/tracker) board. Same story list in a Kanban board. Again make sure to filter by **Free to Play** and **Status: Ready**
 * **Implement:**
