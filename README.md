@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rapidftr/tracker.png?label=ready&title=Ready)](https://waffle.io/rapidftr/tracker)
 # Contributor Quick Start
 
 Stories for all RapidFTR projects (web, android, infrastructure, guides) are tracked as GitHub Issues in this repository. You can contribute to RapidFTR in a variety of ways, including:
